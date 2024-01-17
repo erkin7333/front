@@ -400,6 +400,13 @@ footer span{
     }
     .navbar-nav i{
         display: block;
+        font-size: 1.3rem;
+        color: #fff;
+        cursor: pointer;
+        transition: all .5s ease;
+    }
+    .navbar-nav i:hover{
+        opacity: 0.7;
     }
     .banner-title{
         font-size: 3.5rem;
